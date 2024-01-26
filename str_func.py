@@ -1,6 +1,6 @@
-def capitalize(x):
+def capitalize(x): №задаем функцию
   for a in x:
-    a.capitalize()
-  print x
+    a.capitalize() №запрашиваем заглавные буквы
+  print x №выводим результат
 
-capitalize("heey")
+capitalize("heey") №результат
